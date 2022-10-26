@@ -31,7 +31,12 @@
     
  -  Type terminal and press enter which will open a new terminal.
     
- -  Type  ***\curl -sSL https://get.rvm.io | bash -s stable --ruby*** in the terminal  and press enter.
+ -  Type 
+ 
+
+>  ***\curl -sSL https://get.rvm.io | bash -s stable --ruby***
+
+  in the terminal  and press enter.
     
 
  -  Install Jekyll by typing “gem install jekyll" in the terminal and press enter.
