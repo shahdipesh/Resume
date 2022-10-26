@@ -39,7 +39,11 @@
   in the terminal  and press enter.
     
 
- -  Install Jekyll by typing “gem install jekyll" in the terminal and press enter.
+ -  Install Jekyll by typing 
+
+> gem install jekyll
+
+in the terminal and press enter.
     
  -  Select a theme you’d like to use for your resume by going to “[https://rubygems.org](https://rubygems.org)”, which is a perfect place to find hundreds of themes to use for your markdown file along with some ready to use Projects, which can be modified as per your need.
     
