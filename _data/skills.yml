@@ -1,0 +1,16 @@
+- category: Web Design
+  list: 
+    - HTML
+    - CSS
+
+- category: Web Development
+  list: 
+    - ReactJs
+    - NodeJs
+    - ExpressJs
+    - Spring Boot
+
+- category: Database
+  list:
+    - MySQL
+    - MongoDB
