@@ -1,6 +1,4 @@
 
-
- 
 **Title**: How to host a Resume with jekyll theme on Github Pages using MacOs.
 
 **Purpose**: Get job offers from employers by impressing them with my Resume.
@@ -31,23 +29,14 @@
     
  -  Type terminal and press enter which will open a new terminal.
     
- -  Type 
- 
-
->  ***\curl -sSL https://get.rvm.io | bash -s stable --ruby***
-
-  in the terminal  and press enter.
+ -  Type   `\curl -sSL https://get.rvm.io | bash -s stable --ruby`  in the terminal  and press enter.
     
 
- -  Install Jekyll by typing 
-
-> gem install jekyll
-
-in the terminal and press enter.
+ -  Install Jekyll by typing  `gem install jekyll` in the terminal and press enter.
     
- -  Select a theme you’d like to use for your resume by going to “[https://rubygems.org](https://rubygems.org)”, which is a perfect place to find hundreds of themes to use for your markdown file along with some ready to use Projects, which can be modified as per your need.
+ -  Select a theme you’d like to use for your resume by going to [Rubygems'](https://rubygems.org) site, which is a perfect place to find hundreds of themes to use for your markdown file along with some ready to use Projects, which can be modified as per your need.
     
- -  Search for “Resume Jekyll” via the search box.
+ -  Search for `Resume Jekyll` via the search box.
     
 
 	> Note: You can modify the words inside the quotes to search for
@@ -57,9 +46,9 @@ in the terminal and press enter.
 
  -  Select any Jekyll theme you like from the result.
     
- -  Click on the “HomePage” link on the right-side of the webpage, which will redirect you to the theme’s Github Page which contains information on how to use the theme in your project.
+ -  Click on the `HomePage` link on the right-side of the webpage, which will redirect you to the theme’s Github Page which contains information on how to use the theme in your project.
     
- -  Scroll down until you see the “README” section. This section will contail relevant information on how to download the project on your Computer and how to modify the files so that the resume can be configured to display your details.
+ -  Scroll down until you see the `“README”` section. This section will contail relevant information on how to download the project on your Computer and how to modify the files so that the resume can be configured to display your details.
     
  -  Open the project using Visual studio code (VSCode).
     
@@ -126,21 +115,21 @@ Now you have a digital Resume that is ready to be uploaded in github pages.
 		b.  Set the baseurl to /[name_of_the_repository] you created.
     
 
-> Note: Donot forget the “/” in the baseurl.
+> Note: Do not forget the “/” in the baseurl.
 
  3.  Upload the project to your github repository
     
 			a.  Open a terminal in VSCode.
 			    
-			b.  Type git init and hit enter
+			b.  Type `git init` and hit enter
 			    
-			c.  Type git remote add origin https://github.com/[your_github_username]/[your_repository_name].git and hit enter
+			c.  Type `git remote add origin https://github.com/[your_github_username]/[your_repository_name].git` and hit enter
 			    
-			d.  Type git add . and hit enter.
+			d.  Type `git add .` and hit enter.
 			    
-			e.  Type git commit -m “[any_message_you’d_like]” and press enter.
+			e.  Type `git commit -m “[any_message_you’d_like]”` and press enter.
 			    
-			e.  Type git push -u origin main and press enter.
+			e.  Type `git push -u origin main` and press enter.
 	    
 
 > Your GitHub Pages site will now be live at   
