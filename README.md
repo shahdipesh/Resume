@@ -22,18 +22,22 @@
 
   
 
- -  Install Ruby using Ruby Version Manager (RVM)
+ **1. Install Ruby using Ruby Version Manager (RVM)**
+			
+	 a)Open Terminal using Cmd+space.
+	    
+	 b)Type terminal and press enter which will open a new terminal.
+	    
+	 c)Type `\curl -sSL https://get.rvm.io | bash -s stable --ruby`  in the terminal  and press enter.
     
+ **2. Install Jekyll**
+  
 
- -  Open Terminal using Cmd+space.
-    
- -  Type terminal and press enter which will open a new terminal.
-    
- -  Type   `\curl -sSL https://get.rvm.io | bash -s stable --ruby`  in the terminal  and press enter.
-    
+	 a)Type `gem install jekyll in the terminal and
+	    press enter.
 
- -  Install Jekyll by typing  `gem install jekyll` in the terminal and press enter.
     
+   **3. Download a Theme**
  -  Select a theme you’d like to use for your resume by going to [Rubygems'](https://rubygems.org) site, which is a perfect place to find hundreds of themes to use for your markdown file along with some ready to use Projects, which can be modified as per your need.
     
  -  Search for `Resume Jekyll` via the search box.
@@ -52,6 +56,8 @@
     
  -  Open the project using Visual studio code (VSCode).
     
+
+> If you do not have VSCode installed please follow the steps below
 
 		**Installing VSCode**
 		
@@ -77,14 +83,14 @@
 		12.  Go to [http://127.0.0.1:4000](http://127.0.0.1:4000) in your browser and you should be able to see the project you just installed.
     
 
-	> **Tip**: The webpage automatically updates whenever the files of the project changes so you dont need to restart server everytime you make change to a file.
+	**Tip: The webpage automatically updates whenever the files of the project changes so you dont need to restart server everytime you make change to a file.**
 
-13.  Read the instruction in README section of the project’s github repository to edit the files with details of the resume markdown file you had created.
+-  Read the instruction in README section of the project’s github repository to edit the files with details of the resume markdown file you had created.
     
-14.  Save the files and check if the changes in the webpage reflect what you expected.
+-  Save the files and check if the changes in the webpage reflect what you expected.
     
 
-Now you have a digital Resume that is ready to be uploaded in github pages.
+**Now you have a digital Resume that is ready to be uploaded in github pages.**
 
   
 
