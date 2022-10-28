@@ -4,7 +4,8 @@
   
 ## Purpose  
   
-Get job offers from employers by impressing them with my Resume.  
+- Get job offers from employers by impressing them with my Resume.  
+- Understand Etter's book by practicing the tools and model  recommended by him.
   
 ## Prerequisite  
   
@@ -62,7 +63,14 @@ Get job offers from employers by impressing them with my Resume.
       
  -  Scroll down until you see the `“README”` section.   
  - Follow intructions on README to download the template  
- -  Open the project using Visual studio code (VSCode).  
+
+ **4. Open the downloaded theme and run the Project locally**  
+ -  Open the  downloaded project using Visual studio code (VSCode). 
+ - Type `bundle install` .
+ - Press enter.
+ - Type `bundle exec jekyll serve`.
+ - Press enter.
+ >You should see an update in your terminal, which should show you a url where you can view the Resume. Open your browser and type the url and you should see the  Resume template you just downloaded.
 -  Follow  instructions in README section of the project’s github repository to edit the files with details of the resume markdown file you had created.  
 -  Save the files   
 -  Check webpage to see the changes.  
@@ -124,11 +132,11 @@ Get job offers from employers by impressing them with my Resume.
   
 ## More Resources  
   
--   [https://www.markdowntutorial.com](https://www.markdowntutorial.com) - Tutorial on how to create a markdown document.  
+-   [Create a markdown document.](https://www.markdowntutorial.com)  
       
--   https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS  
+-   [Modern Technical Writing book.](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
   
--   at least one other resource  
+-   [Jekyll documentation](https://jekyllrb.com/docs/installation/macos/)
       
   
 ## Authors and Acknowledgements  
