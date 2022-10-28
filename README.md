@@ -28,13 +28,12 @@
 	    
 	 b)Type terminal and press enter which will open a new terminal.
 	    
-	 c)Type `\curl -sSL https://get.rvm.io | bash -s stable --ruby`  in the terminal  and press enter.
+	 c)Type `\curl -sSL https://get.rvm.io | bash -s stable --ruby` in the terminal  and press enter.
     
  **2. Install Jekyll**
   
 
-	 a)Type `gem install jekyll in the terminal and
-	    press enter.
+	 a)Type `gem install jekyll in the terminal and press enter.
 
     
    **3. Download a Theme**
@@ -72,18 +71,16 @@
 		5.  Launch VS Code by double-clicking on the icon in the Applications folder or searching for it with Spotlight.
 		    
 		6.  Click Open and select the project that you downloaded earlier from github.
+		   
+		7.  Click the View menu and select Terminal which will open a terminal at the bottom of VSCode.
 		    
-
-		9.  Click the View menu and select Terminal which will open a terminal at the bottom of VSCode.
+		8.  Type bundle install in the terminal window of VSCode and hit enter.
 		    
-		10.  Type bundle install in the terminal window of VSCode and hit enter.
+		9.  Type bundle exec jekyll serve which should start a local server.
 		    
-		11.  Type bundle exec jekyll serve which should start a local server.
-		    
-		12.  Go to [http://127.0.0.1:4000](http://127.0.0.1:4000) in your browser and you should be able to see the project you just installed.
+		10.  Go to http://127.0.0.1:4000 in your browser and you should be able to see a resume in your webbrowser.
     
-
-	**Tip: The webpage automatically updates whenever the files of the project changes so you dont need to restart server everytime you make change to a file.**
+	Tip: The webpage automatically updates whenever the files of the project changes so you dont need to restart server everytime you make change to a file.**
 
 -  Read the instruction in README section of the project’s github repository to edit the files with details of the resume markdown file you had created.
     
