@@ -42,7 +42,7 @@ Get job offers from employers by impressing them with my Resume.
       
   
  - Type `gem install jekyll in the terminal.   
- -      Press enter.  
+ - Press enter.  
   
       
   **3. Download a Theme**  
