@@ -1,19 +1,21 @@
 
-**Title**: How to host a Resume with jekyll theme on Github Pages using MacOs.
+# How to host a Resume with jekyll theme on Github Pages using MacOs.
 
-**Purpose**: Get job offers from employers by impressing them with my Resume.
+## Purpose
 
-**Prerequisite**:
+Get job offers from employers by impressing them with my Resume.
 
--   Github acount
+## Prerequisite
+
+-   [Github acount](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
     
--   Gem installed
+-   [Gem](https://sourabhbajaj.com/mac-setup/Ruby/RubyGems.html) installed
     
--   Homebrew
+-   [Homebrew](https://brew.sh/) installed
     
--   VSCode
+-   [VSCode](https://formulae.brew.sh/cask/visual-studio-code) installed
     
--   A resume written in markdown
+-   Resume written in markdown
     
 
   
@@ -141,7 +143,7 @@
 
   
 
-**More Resources:**
+## More Resources
 
 -   [https://www.markdowntutorial.com](https://www.markdowntutorial.com) - Tutorial on how to create a markdown document.
     
@@ -150,7 +152,7 @@
 -   at least one other resource
     
 
-**Authors and Acknowledgements:**
+## Authors and Acknowledgements
 
 -   [RyanxLoi](https://github.com/RyanxLoi)
     
