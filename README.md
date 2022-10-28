@@ -118,7 +118,8 @@ Get job offers from employers by impressing them with my Resume.
 	> There are many reasons to use version control, but the most important reason is that it allows multiple people to work on the same file simultaneously without having to worry about overwriting each other's changes.Similarly, Version control also makes it easy to roll back changes if something goes wrong.
 >- **Make Static Webpage**
 > There are many reasons to make a static web page. One reason is that static web pages load faster than dynamic pages. Static pages also require less server resources, which can save you money. Static pages are also more secure because they are not generated from a database.
-  
+
+> If you would like to know more details on writing a good documentation, you can find the book [here](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS).
     
   
 ## More Resources  
