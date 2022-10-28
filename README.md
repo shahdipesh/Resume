@@ -163,10 +163,10 @@ Get job offers from employers by impressing them with my Resume.
 -   I am getting an error when installing Ruby. What should I do?  
       
   
-   -   There are different other ways to install Ruby on your mac and one way is by using homebrew. You can refer the instruction in this [page](https://jekyllrb.com/docs/installation/macos/) for further instruction.  
+	-	There are different other ways to install Ruby on your mac and one way is by using homebrew. You can refer the instruction in this [page](https://jekyllrb.com/docs/installation/macos/) for further instruction.  
       
   
 -   Clicking on homepage of the theme does not take me to github.  
       
      
-   -   In such case, instructions on how to install and configure the project can usually be found in the homepage of the template itself.
+	- In such case, instructions on how to install and configure the project can usually be found in the homepage of the template itself.
