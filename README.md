@@ -22,7 +22,7 @@
   
   
   
-## **Part 1**: Creating resume using a template that uses Jekyll theme
+## **Part 1**: Creating a resume using template that uses Jekyll theme
   
   
   
@@ -77,7 +77,7 @@
 ## Part 2: Uploading your Resume to GitHub Pages.  
   
  **1. **Setup the GitHub Pages website.****  
-- Log in to your GitHub account
+- Log in to your GitHub account.
 - Navigate to the main page.  
 - Click the "+" icon in the top-right corner of the page.
 - Select "New Repository".  
