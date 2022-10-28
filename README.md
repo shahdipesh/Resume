@@ -9,7 +9,7 @@
   
 ## Prerequisite  
   
--   [GitHub acount](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)  
+-   [A GitHub acount](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)  
       
 -   [Gem](https://sourabhbajaj.com/mac-setup/Ruby/RubyGems.html) installed  
       
@@ -17,7 +17,7 @@
       
 -   [VSCode](https://formulae.brew.sh/cask/visual-studio-code) installed  
       
--   [Resume written in markdown](https://github.com/shahdipesh/resume/blob/master/README.md#more-resources)  
+-   [A Resume written in markdown](https://github.com/shahdipesh/resume/blob/master/README.md#more-resources)  
       
   
     
