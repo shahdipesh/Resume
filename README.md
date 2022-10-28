@@ -9,15 +9,15 @@
   
 ## Prerequisite  
   
--   [A GitHub acount](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)  
+-   [A GitHub acount](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account).  
   
--   [Gem](https://sourabhbajaj.com/mac-setup/Ruby/RubyGems.html) installed  
+-   [Gem](https://sourabhbajaj.com/mac-setup/Ruby/RubyGems.html) installed.  
   
--   [Homebrew](https://brew.sh/) installed  
+-   [Homebrew](https://brew.sh/) installed.  
   
--   [VSCode](https://formulae.brew.sh/cask/visual-studio-code) installed  
+-   [VSCode](https://formulae.brew.sh/cask/visual-studio-code) installed.  
   
--   [A Resume written in markdown](https://github.com/shahdipesh/resume/blob/master/README.md#more-resources)  
+-   [A Resume written in markdown](https://github.com/shahdipesh/resume/blob/master/README.md#more-resources).  
   
   
   
@@ -42,7 +42,7 @@
   
   
   **3. Download a Theme**  
-  - Goto [Rubygems'](https://rubygems.org) site
+  - Goto [Rubygems'](https://rubygems.org) site.
 
 >  Rubygem is a perfect place to find hundreds of themes to use for your markdown file along with some ready to use Projects, which can be modified as per your need.
 -  Search for `Resume Jekyll` via the search box.  
@@ -56,7 +56,7 @@
  -  Click on the "HomePage" link on the right-side of the webpage.  
   
  -  Scroll down until you see the “README" section.  
- - Follow intructions on README to download the template  
+ - Follow intructions on README to download the template.  
   
  **4. Open the downloaded theme and run the Project locally**  
  -  Open the  downloaded project using Visual studio code (VSCode).  
@@ -66,7 +66,7 @@
  - Press enter.  
  >You should see an update in your terminal, which should show you a url where you can view the Resume. Open your browser and type the url and you should see the  Resume template you just downloaded.  
 -  Follow  instructions in README section of the project’s github repository to edit the files with details of the resume markdown file you had created.  
--  Save the files  
+-  Save the files.  
 -  Check webpage to see the changes.  
   
   
@@ -98,15 +98,15 @@
   
  **3. Upload the project to your github repository**  
 - Open a terminal in VSCode.
--  Type `git init`  
-- Press enter  
-- Type `git remote add origin https://github.com/[your_github_username]/[your_repository_name].git`  
-- Press enter  
+-  Type `git init` .  
+- Press enter.  
+- Type `git remote add origin https://github.com/[your_github_username]/[your_repository_name].git` .  
+- Press enter.  
 - Type `git add .`  
 - Press enter.  
-- Type `git commit -m “[explain_what_changes_you_made]”`  
+- Type `git commit -m “[explain_what_changes_you_made]”` .  
 - Press enter.  
-- Type `git push -u origin main`  
+- Type `git push -u origin main` . 
 -  Press enter.  
   
 > Your GitHub Pages site will now be live at  
@@ -151,7 +151,7 @@
 ## FAQs
 
   
- - Why should we use Markdown, when the file is eventually converted to HTML ?   
+ - Why should we use Markdown, when the file is eventually converted to HTML?   
    -   The main aim of using markdown is to abstract away the complexity of formatting text in web documents so that author can focus on the content instead. HTML can perfectly format the contents of the webpage but it has a steep learning curve. Markdown is very easy to learn and hence anyone with just little effort can write content for the web.  
   
   
