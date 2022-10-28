@@ -96,16 +96,16 @@ Get job offers from employers by impressing them with my Resume.
 > Note: Do not forget the “/” in the baseurl.  
   
  **3. Upload the project to your github repository**   
-   - Open a terminal in VSCode. Type `git init`   
-    -  Press enter   
-    - Type `git remote add origin https://github.com/[your_github_username]/[your_repository_name].git`  
-    -  Press enter   
-    - Type `git add .`   
-    - Press enter.   
-    - Type `git commit -m “[any_message_you’d_like]”`   
-    - Press enter.   
-    - Type `git push -u origin main`   
-    -  Press enter.  
+- Open a terminal in VSCode. Type `git init`   
+- Press enter   
+- Type `git remote add origin https://github.com/[your_github_username]/[your_repository_name].git`  
+-  Press enter   
+- Type `git add .`   
+- Press enter.   
+- Type `git commit -m “[any_message_you’d_like]”`   
+- Press enter.   
+- Type `git push -u origin main`   
+-  Press enter.  
   
 > Your GitHub Pages site will now be live at     
 > http://[username].github.io/repositoryname, where "username" is your  
