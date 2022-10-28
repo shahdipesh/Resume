@@ -75,14 +75,14 @@ Get job offers from employers by impressing them with my Resume.
 ## Part 2: Uploading your Resume to github pages.  
   
  **1. **Setup GitHub Pages website.****
-   - Log in to your GitHub account and navigate to the main page.  
-    - In the top-right corner of the page, click the "+" icon, and then     
-      select "New Repository".  
-    - Give your repository a name, and then click "Create Repository".  
-    - On the next page, click "Settings".  
-    - In the "GitHub Pages" section, select "Master Branch" from the     
+- Log in to your GitHub account and navigate to the main page.  
+- In the top-right corner of the page, click the "+" icon, and then     
+ select "New Repository".  
+- Give your repository a name, and then click "Create Repository".  
+- On the next page, click "Settings".  
+- In the "GitHub Pages" section, select "Master Branch" from the     
       "Source" drop-down menu.  
-    - Click "Save".  
+- Click "Save".  
   
       
   
