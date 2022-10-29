@@ -152,16 +152,14 @@
 
   
  - Why should we use Markdown, when the file is eventually converted to HTML?   
-   -   The main aim of using markdown is to abstract away the complexity of formatting text in web documents so that author can focus on the content instead. HTML can perfectly format the webpage's contents, but it has a steep learning curve. Markdown is very easy to learn and hence anyone with just little effort can write content for the web.  
+   -   The main aim of using markdown is to abstract away the complexity of formatting text in web documents so that author can focus on the content instead. HTML can perfectly format the webpage's contents, but it has a steep learning curve. Markdown is very easy to learn and hence anyone with just a little effort can write content for the web.  
   
   
  - How do I know if a theme is compatible with Jekyll?  
-
-   -   A simple trick to know if a theme is compatible with Jekyll, is to read the subtext under the theme’s name on the webpage and look for any word that says “Jekyll”.  
+	  - A simple trick to know if a theme is compatible with Jekyll is to read the subtext under the theme's name on the webpage and look for any word that says "Jekyll."
   
+-   Why am I getting an error when installing Ruby? What should I do?
+	-   There are different reasons for an error occurring during the Ruby installation phase. If you face difficulty installing ruby, you can try to install Ruby using homebrew. You can refer to the instruction on this [page](https://jekyllrb.com/docs/installation/macos/) for further instructions. 
   
--   Why am getting an error when installing Ruby. What should I do?  
-	-  There are different reason for an error to occur during the Ruby installation phase. If you face difficulty installing ruby you can try to install Ruby using homebrew. You can refer the instruction in this [page](https://jekyllrb.com/docs/installation/macos/) for further instruction.  
-  
-  -   Why am I not being redirected to github after clicking the homepage link? 
-	   - One main reason you might not be redirected to github is because the instruction on how to install and configure the project can usually be found in the homepage of the template itself. 
+  -   Why am I not being redirected to GitHub after clicking the homepage link? 
+	   - One main reason you might not be redirected to GitHub is because the instruction on how to install and configure the project can usually be found in the homepage of the template itself. 
