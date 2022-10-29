@@ -1,5 +1,6 @@
 
-  
+  ![IMG_0631](https://user-images.githubusercontent.com/58643575/198752946-57fcd42c-4421-4bc8-a6a5-b3025dcab79d.GIF)
+
 # How to host a Resume with a Jekyll theme on GitHub Pages using MacOs  
   
 ## Purpose  
