@@ -22,7 +22,7 @@ title: Resume
 description: >- # this means to ignore newlines until "baseurl:"
   Your resume.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "shahdipesh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shahdipesh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
