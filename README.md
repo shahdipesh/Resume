@@ -138,11 +138,11 @@
   
 -   [RyanxLoi](https://github.com/RyanxLoi)  
   
--   P1  
+-   Lin, Ming Tai  
   
--   P2  
+-   Oguntola, Emmanuel  
   
--   p3  
+-   Omerkadic, Hairudin  
   
   
   
